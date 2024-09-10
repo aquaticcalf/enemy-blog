@@ -77,7 +77,6 @@ Please see [**CONTRIBUTING**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blo
 - [FluidUI](https://www.fluidui.com/)
 - [Vectr](https://vectr.com/)
 
-
 ## Prototyping tools for UI/UX
 
 - [Figma](https://www.figma.com/)
@@ -131,9 +130,6 @@ Please see [**CONTRIBUTING**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blo
 - [Freehostia](https://www.freehostia.com/)
 - [000webhost.com](https://www.000webhost.com/)
 
-
-
-
 ## Websites to learn
 
 - [Freecodecamp](http://freecodecamp.org)
@@ -162,7 +158,6 @@ Please see [**CONTRIBUTING**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blo
 - [CodePen](https://codepen.com/)
 - [Stack Overflow](https://stackoverflow.com/)
 - [Tutorialspoint](https://tutorialspoint.com/)
-- 
 
 ## Websites for code challenges
 
@@ -332,8 +327,8 @@ Please see [**CONTRIBUTING**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blo
 - [GNU Wget](https://www.gnu.org/software/wget/)
 - [WebCopy by Cyotek](https://www.cyotek.com/cyotek-webcopy)
 
-
 ## HTML Learning Resources
+
 - [Learn HTML – Full Tutorial for Beginners(Freecodecamp)](https://www.youtube.com/watch?v=kUMe1FH4CHE)
 - [Learn HTML - Codecademy](https://join.codecademy.com/learn/learn-html/)
 - [HTML Tutorial - W3schools](https://www.w3schools.com/html/)
@@ -345,8 +340,8 @@ Please see [**CONTRIBUTING**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blo
 - [HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [HTML Full Course For Beginners - Brocode](https://www.youtube.com/watch?v=HGTJBPNC-Gw)
 
-
 ## CSS Learning Resources
+
 - [Learn CSS - web.dev](https://web.dev/learn/css/)
 - [Learn CSS - Codecademy](https://www.codecademy.com/learn/learn-css)
 - [CSS Tutorial - W3schools](https://www.w3schools.com/css/)
@@ -381,7 +376,6 @@ Please see [**CONTRIBUTING**](https://github.com/SERVER-X-101/SERVER-X-BLOGS/blo
 - [HeyLink](https://heylink.me/)
 - [BioLink](https://bio.link/)
 - [BioDrop](https://www.biodrop.io/)
-
 
 ## Github Student Developer Pack Resources
 
@@ -464,6 +458,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Sheryians Coding School](https://www.youtube.com/@thesheryianscodingschool)
 
 ## HTML Learning Resources
+
 - [Learn HTML – Full Tutorial for Beginners(Freecodecamp)](https://www.youtube.com/watch?v=kUMe1FH4CHE)
 - [Learn HTML - Codecademy](https://join.codecademy.com/learn/learn-html/)
 - [HTML Tutorial - W3schools](https://www.w3schools.com/html/)
@@ -473,6 +468,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [HTML Tutorial - How to Make a Super Simple Website(Freecodecamp)](https://www.youtube.com/watch?v=PlxWf493en4)
 
 ## CSS Learning Resources
+
 - [Learn CSS - web.dev](https://web.dev/learn/css/)
 - [Learn CSS - Codecademy](https://www.codecademy.com/learn/learn-css)
 - [CSS Tutorial - W3schools](https://www.w3schools.com/css/)
@@ -483,6 +479,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [CSS-Tricks](https://css-tricks.com)
 
 ## JS Learning Resources
+
 - [Learn JavaScript - Full Course for Beginners (YouTube - FreeCodeCamp)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 - [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour (YouTube - Programming With Mosh)](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 - [JavaScript Programming - Full Course (YouTube - FreeCodeCamp)](https://www.youtube.com/watch?v=jS4aFq5-91M)
@@ -535,7 +532,6 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Next.js](https://nextjs.org/)
 - [Gatsby](https://www.gatsbyjs.com/)
 - [Astro](https://astro.build/)
-
 
 ## Top JavaScript Runtime
 
