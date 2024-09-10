@@ -606,9 +606,9 @@ Please note that the links provided are the GitHub repository URLs for each proj
 - [HackerTarget](https://hackertarget.com/vulnerability-scanner/)
 - [Qualys SSL Labs](https://www.ssllabs.com/ssltest/)
 
-## Tutorial in Other Languages
+<!-- ## Tutorial in Other Languages
 
-- [Indonesian](./lang/indonesian.md)
+- [Indonesian](./lang/indonesian.md) -->
 
 ---
 
